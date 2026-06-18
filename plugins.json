@@ -6,10 +6,10 @@
     "source": "https://pops.vn/",
     "regexp": "(www.)?pops.vn/story/[0-9a-z].+",
     "description": "Đọc truyện chữ bản quyền trên POPS Việt Nam",
-    "local": "vi-VN",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel",
-    "url": "https://raw.githubusercontent.com/lamtu230705-lgtm/popsextention/main/pop.zip",
+    "path": "https://raw.githubusercontent.com/lamtu230705-lgtm/popsextention/main/pop.zip",
     "icon": "https://raw.githubusercontent.com/lamtu230705-lgtm/popsextention/main/icon.png"
   }
 ]
